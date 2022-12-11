@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://jackdonnelly.tk/
+nav:
+    - Home: index.md
+    - Test Page: Testpage.md
