@@ -3,3 +3,6 @@ site_url: https://jackdonnelly.tk/
 nav:
     - Home: index.md
     - Test Page: Testpage.md
+theme:
+    name: mkdocs
+    nav_style: dark
