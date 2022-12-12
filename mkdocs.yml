@@ -1,10 +1,19 @@
-site_name: My Docs
-site_url: www.jackdonnelly.tk
+site_name: JackDonnelly.tk
+site_url: httpp://www.jackdonnelly.tk
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
+
 nav:
     - Home: index.md
     - Test page: Testpage.md
+
+
 theme:
-    name: material
+    name: mkdocs
     favicon: assets/icon.png
     nav_style: dark
     logo: assets/logo.png
