@@ -2,7 +2,7 @@ site_name: My Docs
 site_url: https://www.jackdonnelly.tk
 nav:
     - Home: index.md
-    - Test Page: Testpage.md
+    - Test page: Testpage.md
 theme:
     name: material
     favicon: assets/icon.png
