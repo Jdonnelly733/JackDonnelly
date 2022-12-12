@@ -1,7 +1,11 @@
 site_name: JackDonnelly.tk
-site_url: www.jackdonnelly.tk
+site_url: httpp://www.jackdonnelly.tk
 markdown_extensions:
   - meta
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
 
 nav:
     - Home: index.md
