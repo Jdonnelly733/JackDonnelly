@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: https://jackdonnelly.tk/
+site_url: https://www.jackdonnelly.tk
 nav:
     - Home: index.md
     - Test Page: Testpage.md
