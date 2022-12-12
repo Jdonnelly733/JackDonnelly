@@ -13,10 +13,13 @@
   
 
 
-*  I enjoy both electrical and mechanical engineering.
-*  I love 3d printing and CAD design in Blender.
-*  I am an avaition nerd and love building my own model airplanes.
-*  I am a big fan of cars and can commonly be caught talking about them.
+*  Charalotte Latin School Class of 2024.
+*  A member of the CLS cross country team.
+*  I love electrical and mechanical engineering.
+*  I enjoy 3d printing and CAD design in Blender.
+*  I am an avaition nerd and love making my own model airplanes.
+*  I am a big fan of cars and love modding them.
+
 
 
         
