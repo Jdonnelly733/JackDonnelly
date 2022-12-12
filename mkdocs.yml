@@ -4,8 +4,10 @@ nav:
     - Home: index.md
     - Test Page: Testpage.md
 theme:
-    name: cinder
+    name: material
+    favicon: assets/icon.png
     nav_style: dark
+    logo: assets/logo.png
     palette:
         primary: blue grey
         scheme: slate
