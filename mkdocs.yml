@@ -30,7 +30,7 @@ theme:
       code: Exo 2
     favicon: assets/icon.png
     nav_style: dark
-    logo: assets/header.png
+    logo: assets/Header.png
     palette:
         primary: blue grey
         scheme: slate
