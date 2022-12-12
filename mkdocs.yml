@@ -13,7 +13,7 @@ nav:
 
 
 theme:
-    name: mkdocs
+    name: material
     favicon: assets/icon.png
     nav_style: dark
     logo: assets/logo.png
