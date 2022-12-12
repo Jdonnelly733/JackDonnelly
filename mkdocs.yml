@@ -1,5 +1,10 @@
 site_name: JackDonnelly.tk
+site_author: Jack Donnelly
 site_url: httpp://www.jackdonnelly.tk
+site_description: >-
+    Digital Portfolio For Jack Donnelly - A Student, Engineer, and Programmer.
+
+
 markdown_extensions:
   - meta
   - attr_list
@@ -7,19 +12,29 @@ markdown_extensions:
 plugins:
   - glightbox
 
+
+repo_url: https://github.com/Jdonnelly733/JackDonnelly
+repo_name: Jdonnelly733/JackDonnelly
+
+
 nav:
     - Home: index.md
     - Test page: Testpage.md
+    - About Me: bio.md
 
 
 theme:
     name: material
+    font:
+      text: Raleway
+      code: Exo 2
     favicon: assets/icon.png
     nav_style: dark
-    logo: assets/logo.png
+    logo: assets/header.png
     palette:
         primary: blue grey
         scheme: slate
         accent: amber
+
 
 copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

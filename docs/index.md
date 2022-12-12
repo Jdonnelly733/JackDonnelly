@@ -18,7 +18,8 @@
 *  I love electrical and mechanical engineering.
 *  I enjoy 3d printing and CAD design in Blender.
 *  I am an avaition nerd and love making my own model airplanes.
-*  I am a big fan of cars and love modding them.
+*  Please visit my [about me page](bio.md) for more!
+
 
 
 
